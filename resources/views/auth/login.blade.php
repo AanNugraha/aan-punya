@@ -14,7 +14,10 @@
             <div class="card-body p-0">
                 <!-- Nested Row within Card Body -->
                 <div class="row">
-                    <div class="col-lg-6 d-none d-lg-block bg-login-image"></div>
+                    <div class="col-lg-6 d-none d-lg-block bg-login-image">
+                        <!-- <img src="https://img-cdn.medkomtek.com/R43ZU6c-_QXhlFGrylRW5hGwnE8=/0x0/smart/filters:quality(100):strip_icc():format(webp)/article/DWDN6WiMf2W03qS-WVA-0/original/000510400_1519198069-5-Fakta-tentang-Fogging-By-Song-Pin-shutterstock.jpg" width="100%" height="100%" alt=""> -->
+                        <img src="{{asset('logo_foging_2.jpeg')}}" width="100%" height="100%" alt="">
+                    </div>
                     <div class="col-lg-6">
                         <div class="p-5">
                             <div class="text-center">
